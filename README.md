@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuvigyaSrivastava/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SuvigyaSrivastava/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuvigyaSrivastava/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Hash Table
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuvigyaSrivastava/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuvigyaSrivastava/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SuvigyaSrivastava/DSA/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/SuvigyaSrivastava/DSA/tree/master/0055-jump-game) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuvigyaSrivastava/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/SuvigyaSrivastava/DSA/tree/master/0485-max-consecutive-ones) |
 ## Dynamic Programming
 |  |
