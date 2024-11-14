@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SuvigyaSrivastava/DSA/tree/master/0001-two-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuvigyaSrivastava/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Two Pointers
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/SuvigyaSrivastava/DSA/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/SuvigyaSrivastava/DSA/tree/master/0055-jump-game) |
 | [0485-max-consecutive-ones](https://github.com/SuvigyaSrivastava/DSA/tree/master/0485-max-consecutive-ones) |
 ## Dynamic Programming
