@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/SuvigyaSrivastava/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuvigyaSrivastava/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SuvigyaSrivastava/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuvigyaSrivastava/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SuvigyaSrivastava/DSA/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/SuvigyaSrivastava/DSA/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/SuvigyaSrivastava/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuvigyaSrivastava/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/SuvigyaSrivastava/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/SuvigyaSrivastava/DSA/tree/master/0485-max-consecutive-ones) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SuvigyaSrivastava/DSA/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SuvigyaSrivastava/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
