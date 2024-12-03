@@ -76,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/SuvigyaSrivastava/DSA/tree/master/0075-sort-colors) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SuvigyaSrivastava/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
