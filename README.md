@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SuvigyaSrivastava/DSA/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SuvigyaSrivastava/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/SuvigyaSrivastava/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuvigyaSrivastava/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SuvigyaSrivastava/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SuvigyaSrivastava/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -79,11 +80,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/SuvigyaSrivastava/DSA/tree/master/0075-sort-colors) |
+| [0451-sort-characters-by-frequency](https://github.com/SuvigyaSrivastava/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SuvigyaSrivastava/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 ## String
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/SuvigyaSrivastava/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3379-score-of-a-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/3379-score-of-a-string) |
 ## Math
@@ -103,8 +106,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/SuvigyaSrivastava/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Stack
 |  |
 | ------- |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SuvigyaSrivastava/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/SuvigyaSrivastava/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
