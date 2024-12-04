@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [3379-score-of-a-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
