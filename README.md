@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SuvigyaSrivastava/DSA/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SuvigyaSrivastava/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuvigyaSrivastava/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SuvigyaSrivastava/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [3379-score-of-a-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
@@ -92,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SuvigyaSrivastava/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
