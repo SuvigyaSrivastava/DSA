@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SuvigyaSrivastava/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/SuvigyaSrivastava/DSA/tree/master/0485-max-consecutive-ones) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SuvigyaSrivastava/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SuvigyaSrivastava/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SuvigyaSrivastava/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Dynamic Programming
 |  |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3379-score-of-a-string](https://github.com/SuvigyaSrivastava/DSA/tree/master/3379-score-of-a-string) |
+## Math
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SuvigyaSrivastava/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/SuvigyaSrivastava/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
