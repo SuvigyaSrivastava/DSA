@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SuvigyaSrivastava/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SuvigyaSrivastava/DSA/tree/master/0485-max-consecutive-ones) |
 | [0898-transpose-matrix](https://github.com/SuvigyaSrivastava/DSA/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/SuvigyaSrivastava/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SuvigyaSrivastava/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SuvigyaSrivastava/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SuvigyaSrivastava/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/SuvigyaSrivastava/DSA/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/SuvigyaSrivastava/DSA/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
