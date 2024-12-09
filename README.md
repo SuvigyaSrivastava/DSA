@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SuvigyaSrivastava/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SuvigyaSrivastava/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SuvigyaSrivastava/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3429-special-array-i](https://github.com/SuvigyaSrivastava/DSA/tree/master/3429-special-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
