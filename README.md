@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/SuvigyaSrivastava/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/SuvigyaSrivastava/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SuvigyaSrivastava/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/SuvigyaSrivastava/DSA/tree/master/3427-special-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SuvigyaSrivastava/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/SuvigyaSrivastava/DSA/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SuvigyaSrivastava/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3427-special-array-ii](https://github.com/SuvigyaSrivastava/DSA/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/SuvigyaSrivastava/DSA/tree/master/3429-special-array-i) |
 ## Dynamic Programming
 |  |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/SuvigyaSrivastava/DSA/tree/master/0898-transpose-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/SuvigyaSrivastava/DSA/tree/master/3427-special-array-ii) |
 <!---LeetCode Topics End-->
