@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/SuvigyaSrivastava/DSA/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3427-special-array-ii](https://github.com/SuvigyaSrivastava/DSA/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/SuvigyaSrivastava/DSA/tree/master/3429-special-array-i) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SuvigyaSrivastava/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/SuvigyaSrivastava/DSA/tree/master/0007-reverse-integer) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SuvigyaSrivastava/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SuvigyaSrivastava/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/SuvigyaSrivastava/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SuvigyaSrivastava/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/SuvigyaSrivastava/DSA/tree/master/0898-transpose-matrix) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SuvigyaSrivastava/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
