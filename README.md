@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/SuvigyaSrivastava/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SuvigyaSrivastava/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/SuvigyaSrivastava/DSA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SuvigyaSrivastava/DSA/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/SuvigyaSrivastava/DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SuvigyaSrivastava/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -140,11 +141,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SuvigyaSrivastava/DSA/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/SuvigyaSrivastava/DSA/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/SuvigyaSrivastava/DSA/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SuvigyaSrivastava/DSA/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/SuvigyaSrivastava/DSA/tree/master/0898-transpose-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SuvigyaSrivastava/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Prefix Sum
