@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/SuvigyaSrivastava/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SuvigyaSrivastava/DSA/tree/master/0485-max-consecutive-ones) |
 | [0898-transpose-matrix](https://github.com/SuvigyaSrivastava/DSA/tree/master/0898-transpose-matrix) |
+| [1395-minimum-time-visiting-all-points](https://github.com/SuvigyaSrivastava/DSA/tree/master/1395-minimum-time-visiting-all-points) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SuvigyaSrivastava/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1677-matrix-diagonal-sum](https://github.com/SuvigyaSrivastava/DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/SuvigyaSrivastava/DSA/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/SuvigyaSrivastava/DSA/tree/master/0007-reverse-integer) |
+| [1395-minimum-time-visiting-all-points](https://github.com/SuvigyaSrivastava/DSA/tree/master/1395-minimum-time-visiting-all-points) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/SuvigyaSrivastava/DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SuvigyaSrivastava/DSA/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Number Theory
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/SuvigyaSrivastava/DSA/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Geometry
+|  |
+| ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/SuvigyaSrivastava/DSA/tree/master/1395-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
